@@ -37,7 +37,7 @@ div{
     flex-wrap: wrap;
 }
 .caja{
-    color: gold
+    color: gold;
     background-color: black;
     font-size: 20px;
     padding: 1px; 
@@ -56,7 +56,6 @@ div{
     font-size: 20px;
     padding: 1px;  
     scale: 1.03;
-
 }
 
 @media screen and (max-width: 600px)

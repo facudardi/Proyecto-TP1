@@ -48,6 +48,7 @@ div{
     border: 2px solid gold;
     border-radius: 10px;
     transition: all 0.2s ease-in-out;
+    margin: 2.5px;
    
 }
 .caja:hover{
@@ -56,6 +57,7 @@ div{
     font-size: 20px;
     padding: 1px;  
     scale: 1.03;
+    margin: 5px;
 }
 
 @media screen and (max-width: 600px)
